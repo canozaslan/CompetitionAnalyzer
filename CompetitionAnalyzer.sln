@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompetitionAnalyzer", "CompetitionAnalyzer\CompetitionAnalyzer.csproj", "{0409DB3E-14AA-4EC2-95F3-904E57802EA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0409DB3E-14AA-4EC2-95F3-904E57802EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0409DB3E-14AA-4EC2-95F3-904E57802EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0409DB3E-14AA-4EC2-95F3-904E57802EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0409DB3E-14AA-4EC2-95F3-904E57802EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAD25D83-0092-4EB5-945A-AC5686084AB7}
+	EndGlobalSection
+EndGlobal
